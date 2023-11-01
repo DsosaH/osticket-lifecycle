@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Life Cycle</h1>
-This last part shows how a ticket is issued the process it goes before finally closing after being solved..<br />
+This last part shows how a ticket is issued and the process it goes before finally closing after being solved..<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -43,5 +43,11 @@ This last part shows how a ticket is issued the process it goes before finally c
   After asessing the situation explained in the ticket, Mark responds and the ticket resolution begins.
   
   ![image](https://github.com/DsosaH/osticket-lifecycle/assets/148100125/e1309b99-6dc4-4547-bc80-da6c4c573694)
+
+</p>
+<p>
+  After a while, Mark and his team have finally solved the problem and the database is compleatly functional again. So Mark closes the ticket as "Solved".
+  
+  ![image](https://github.com/DsosaH/osticket-lifecycle/assets/148100125/550d4bd7-7cad-4bf0-9ecb-85a5526358cd)
 
 </p>
